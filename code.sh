@@ -1,1 +1,1 @@
-cho "Hello from v3"
+echo "Hello from v3"
